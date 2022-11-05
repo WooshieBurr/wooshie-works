@@ -25,7 +25,7 @@ body {
     position: relative;
 
     background-position: 0vmin 0vmin;
-    background-image: url("../Images/bg.png");
+    background-image: url("https://i.imgur.com/Aun9OGY.png");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -50,7 +50,7 @@ body {
 }
 
 #logo {
-    background-image: url("../Images/logo.png");
+    background-image: url("https://i.imgur.com/RaPqst2.png");
     background-size: contain;
     background-repeat: no-repeat;
 
@@ -162,7 +162,7 @@ body {
 }
 
 #block_img_store {
-    background-image: url('../Images/store.png');
+    background-image: url('https://i.imgur.com/fKJiKoF.png');
     background-repeat: no-repeat;
     background-size: contain;
 
@@ -171,7 +171,7 @@ body {
 }
 
 #block_img_script {
-    background-image: url('../Images/script.png');
+    background-image: url('https://i.imgur.com/FruUYfz.png');
     background-repeat: no-repeat;
     background-size: contain;
 
